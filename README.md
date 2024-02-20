@@ -1,0 +1,1 @@
+Toto je repozitář pro odevzdávání domácích úkolů do předmětu Vědecké Výpočty v Pythonu. Autor: [Martin Durana] a [dur0157].
